@@ -50,3 +50,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/TCPIP/Demo App MDD/MPLAB.X/build/XC16-USB_Thumb_Drive/
+/TCPIP/Demo App MDD/MPLAB.X/dist/XC16-USB_Thumb_Drive/
